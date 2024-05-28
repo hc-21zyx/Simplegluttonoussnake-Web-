@@ -1,4 +1,4 @@
-# Simple-gluttonous-snake
+# Simple-gluttonous-snake(Web前端)
 简易版的贪吃蛇游戏
 
 #project 模块简介

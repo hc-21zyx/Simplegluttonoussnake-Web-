@@ -1,20 +1,24 @@
-# Simple-gluttonous-snake(Web前端)
-简易版的贪吃蛇游戏
+# web
 
-#project 模块简介
+## Project setup
+```
+npm install
+```
 
-简陋的Vue3(bootstrap)前端 + SpringBoot + SpringCloud
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-#project所包含的模块
+### Compiles and minifies for production
+```
+npm run build
+```
 
-注册登录,
+### Lints and fixes files
+```
+npm run lint
+```
 
-Bot的增删改查,
-
-Websocket实现匹配系统,
-
-Js所实现的游戏运行功能,
-
-SpringClound实现的Bot的创建
-
-录像回放
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
